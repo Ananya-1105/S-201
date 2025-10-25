@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/S-201/',
+  base: '/hospital-frontend-main/',
 });
